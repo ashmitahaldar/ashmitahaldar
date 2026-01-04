@@ -2,7 +2,7 @@
 
 🎓 **Year 2 Computer Science + Entrepreneurship Undergraduate @ National University of Singapore** </br>
 💡 Interested in Full-stack Web Dev, UI/UX, and Tech Entrepreneurship </br>
-🌱 Currently learning React + TypeScript, improving DSA knowledge </br>
+🌱 Currently learning React + TypeScript, improving DSA knowledge, and trying to learn C++ basics </br>
 🌸 I love mixing tech with creativity, currently working on a retro video-game–themed personal website!</br>
 
 # 💻 Tech Stack:
